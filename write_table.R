@@ -1,0 +1,1 @@
+write.table(a, "i:/Documents/Volumes.txt", sep=";", col.names = TRUE, row.names = FALSE, append=FALSE)

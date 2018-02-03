@@ -1,0 +1,1 @@
+for (i in 1:58) { file.rename(gsub(" ","",(paste(a, z[i]))), gsub(".txt",".R",gsub(" ","",(paste(a, z[i])))))}

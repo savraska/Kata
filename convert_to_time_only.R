@@ -1,0 +1,1 @@
+format(strptime(a$V2, format='%H:%M:%S'),'%H:%M:%S')
